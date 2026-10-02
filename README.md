@@ -1,5 +1,7 @@
 # Album
 
+[![pipeline status](https://gitlab.com/AlexWeber64/PhotoAlbumLauncher/badges/main/pipeline.svg)](https://gitlab.com/AlexWeber64/PhotoAlbumLauncher/-/pipelines)
+
 An Android app with one job: **open it, see your album.** No feed, no tabs, no chrome.
 
 On launch it reads a saved MediaStore `bucket_id` and draws that album's photos in a
